@@ -1,0 +1,31 @@
+{
+  "name": "healthapp",
+  "version": "1.0.0",
+  "description": "Its a demo app. Its based on Health Care ",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "email-verification": "^0.4.6",
+    "eslint": "^4.11.0",
+    "express": "^4.16.2",
+    "express-myconnection": "^1.0.4",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^8.1.0",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.1",
+    "node.date-time": "^1.2.2",
+    "nodemailer": "^4.4.1",
+    "nodemon": "^1.15.1",
+    "random-id": "0.0.2",
+    "wait.for": "^0.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js"
+  },
+  "author": "stupid@coder",
+  "license": "ISC"
+}

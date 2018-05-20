@@ -1,0 +1,1317 @@
+###  2018-3-21__17:25:s : Get request for Doctor List
+###  2018-3-21__17:25:s : get-request-doctor-list.js: Sending Hospital List
+###  2018-3-21__17:25:s : Get request for Doctor List
+###  2018-3-21__17:25:s : Get request for Doctor List
+###  2018-3-21__17:25:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__17:25:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__17:25:s : Get request for Doctor List
+###  2018-3-21__17:25:s : get-request_patients_list.js: Sending Hospital List
+###  2018-3-21__17:25:s : Get request for Doctor List
+###  2018-3-21__17:25:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__17:25:s : Get request for Doctor List
+###  2018-3-21__17:25:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__17:25:s : reg_id Request : 305WM3161247P12014FX
+###  2018-3-21__17:25:s : login in Successful
+###  2018-3-21__17:25:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJhc2RmIiwibGFzdF9uYW1lIjoidW5kZWZpbmVkIiwidXNlcl9uYW1lIjoidW5kZWZpbmVkIiwiZW1haWwiOiJhMyIsInBhc3N3b3JkIjoiYTMiLCJzaWdudXBfdmFsaWRpdHkiOiI3VEdIMiIsImNyZWF0ZWRfZGF0ZSI6IjIwMTgtMS0yMiIsImNyZWF0ZWRfdGltZSI6IjIzOjA5OnMiLCJpc19hZG1pbiI6InRydWUiLCJpc19kb2N0b3IiOiJ0cnVlIiwiaXNfbnVyc2UiOiJmYWxzZSIsImlzX3BhdGllbnRzIjoiZmFsc2UifSwiaWF0IjoxNTIxNjMxNTMxLCJleHAiOjE1MjE2MzE1OTF9.ANfia_ltic86PuZUWhGBC0Vq6kWK9P-mPeZNYXpC8LE
+###  2018-3-21__17:25:s : Get request for Patients Details
+###  2018-3-21__17:25:s : patients_list.js: Patints Details Found
+###  2018-3-21__17:25:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__17:26:s : Get request for Patients Details
+###  2018-3-21__17:26:s : patients_list.js: Patints Details Found
+###  2018-3-21__17:26:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__17:26:s : Get request for Patients Details
+###  2018-3-21__17:26:s : patients_list.js: Patints Details Found
+###  2018-3-21__17:26:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__17:27:s : Get request for Patients Details
+###  2018-3-21__17:27:s : patients_list.js: Patints Details Found
+###  2018-3-21__17:27:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__17:27:s : Get request for Patients Details
+###  2018-3-21__17:27:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:27:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:27:s : Get request for Patients checkup Details
+###  2018-3-21__17:27:s : patients_checkup_details.js: Patints Details Found
+###  2018-3-21__17:27:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-3-21__17:27:s : Get request for Patients Details
+###  2018-3-21__17:27:s : patients_list.js: Patints Details Found
+###  2018-3-21__17:27:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__17:27:s : Get request for Doctor Information
+###  2018-3-21__17:27:s : doctor_info.js: Patients Detials Sending 
+###  2018-3-21__17:27:s : doctor_info.js: Patints Details Found
+###  2018-3-21__17:27:s : Get request for Patients Details
+###  2018-3-21__17:27:s : patients_list.js: Patints Details Found
+###  2018-3-21__17:27:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__17:27:s : Get request for Patients Details
+###  2018-3-21__17:27:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:27:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:27:s : Get request for Patients checkup Details
+###  2018-3-21__17:27:s : patients_checkup_details.js: Patints Details Found
+###  2018-3-21__17:27:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-3-21__17:27:s : Get request for Patients checkup Details
+###  2018-3-21__17:27:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-3-21__17:27:s : patients_checkup_info.js: Patints Details Found
+###  2018-3-21__17:27:s : Get request for Patients Details
+###  2018-3-21__17:27:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:27:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:27:s : Get request for Patients checkup Details
+###  2018-3-21__17:27:s : patients_checkup_details.js: Patints Details Found
+###  2018-3-21__17:27:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-3-21__17:28:s : Get request for Patients Details
+###  2018-3-21__17:28:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:28:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:28:s : Get request for Patients checkup Details
+###  2018-3-21__17:28:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-3-21__17:28:s : patients_checkup_details.js: Patints Details Found
+###  2018-3-21__17:28:s : Get request for Patients Details
+###  2018-3-21__17:28:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:28:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:28:s : Get request for Patients checkup Details
+###  2018-3-21__17:28:s : patients_checkup_details.js: Patints Details Found
+###  2018-3-21__17:28:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-3-21__17:33:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-3-21__17:33:s : login in Successful
+###  2018-3-21__17:33:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyMTYzMTk4MSwiZXhwIjoxNTIxNjMyMDQxfQ.ipWf15aUUUs7DSmLE0s-PhTHw4J4echyIadPn8AgVsY
+###  2018-3-21__17:33:s : Get request for checkup details
+###  2018-3-21__17:33:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:33:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__17:34:s : Get request for checkup details
+###  2018-3-21__17:34:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:34:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__17:34:s : Get request for checkup details
+###  2018-3-21__17:34:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:34:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__17:34:s : Get request for checkup details
+###  2018-3-21__17:34:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:34:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__17:48:s : Get request for checkup details
+###  2018-3-21__17:48:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:48:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__17:49:s : Get request for checkup details
+###  2018-3-21__17:49:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:49:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__17:49:s : Get request for checkup details
+###  2018-3-21__17:49:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:49:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__17:50:s : Get request for Patients Details
+###  2018-3-21__17:50:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:50:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:51:s : Get request for Patients Details
+###  2018-3-21__17:51:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:51:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:52:s : Get request for Patients Details
+###  2018-3-21__17:52:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:52:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:53:s : Get request for Patients Details
+###  2018-3-21__17:53:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:53:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:54:s : Get request for Patients Details
+###  2018-3-21__17:54:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:54:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:54:s : Get request for Patients Details
+###  2018-3-21__17:54:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:54:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:55:s : Get request for Patients Details
+###  2018-3-21__17:55:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:55:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:56:s : Get request for Patients Details
+###  2018-3-21__17:56:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:56:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:56:s : Get request for checkup details
+###  2018-3-21__17:56:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:56:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__17:56:s : Get request for Patients Details
+###  2018-3-21__17:56:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:56:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:57:s : Get request for Patients Details
+###  2018-3-21__17:57:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:57:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:58:s : Get request for Patients Details
+###  2018-3-21__17:58:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:58:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:58:s : Get request for checkup details
+###  2018-3-21__17:58:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:58:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__17:58:s : Get request for checkup details
+###  2018-3-21__17:58:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:58:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__17:58:s : Get request for Patients Details
+###  2018-3-21__17:58:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:58:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:59:s : Get request for Patients Details
+###  2018-3-21__17:59:s : patients_details.js: Patints Details Found
+###  2018-3-21__17:59:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__17:59:s : Get request for checkup details
+###  2018-3-21__17:59:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:59:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__17:59:s : Get request for Patients checkup Details
+###  2018-3-21__17:59:s : patients_checkup_info.js: Patints Details Found
+###  2018-3-21__17:59:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-3-21__17:59:s : Get request for checkup details
+###  2018-3-21__17:59:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__17:59:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:00:s : Get request for checkup details
+###  2018-3-21__18:00:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:00:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:01:s : Get request for Patients Details
+###  2018-3-21__18:01:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:01:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:01:s : Get request for checkup details
+###  2018-3-21__18:01:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:01:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:01:s : Get request for Patients Details
+###  2018-3-21__18:01:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:01:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:02:s : Get request for Patients Details
+###  2018-3-21__18:02:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:02:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:02:s : Get request for checkup details
+###  2018-3-21__18:02:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:02:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:02:s : Get request for checkup details
+###  2018-3-21__18:02:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:02:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:02:s : Get request for Patients Details
+###  2018-3-21__18:02:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:02:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:03:s : Get request for Patients Details
+###  2018-3-21__18:03:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:03:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:03:s : Get request for checkup details
+###  2018-3-21__18:03:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:03:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:04:s : Get request for Patients Details
+###  2018-3-21__18:04:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:04:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:05:s : Get request for Patients Details
+###  2018-3-21__18:05:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:05:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:06:s : Get request for Patients Details
+###  2018-3-21__18:06:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:06:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:06:s : Get request for checkup details
+###  2018-3-21__18:06:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:06:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:06:s : Get request for Patients Details
+###  2018-3-21__18:06:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:06:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:06:s : Get request for Patients Details
+###  2018-3-21__18:06:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:06:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:06:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-3-21__18:06:s : login in Successful
+###  2018-3-21__18:06:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyMTYzMzk5MywiZXhwIjoxNTIxNjM0MDUzfQ.4P-niPuOC_Uyl-A0ZLuAMQVP-bbocNMdDKmxuslAmpE
+###  2018-3-21__18:06:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-3-21__18:06:s : login in Successful
+###  2018-3-21__18:06:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyMTYzNDAxMywiZXhwIjoxNTIxNjM0MDczfQ.BqYozQhrLAX5uZgJd_TSVGLNRkp0fqQq1fexblacHp4
+###  2018-3-21__18:07:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-3-21__18:07:s : login in Successful
+###  2018-3-21__18:07:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyMTYzNDA2NCwiZXhwIjoxNTIxNjM0MTI0fQ.Ah67Mx06MM4uA_UmxZ_e1iVMJWOn2Ii_xI7SvP8p_Go
+###  2018-3-21__18:07:s : Get request for checkup details
+###  2018-3-21__18:07:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:07:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:07:s : Get request for Patients Details
+###  2018-3-21__18:07:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:07:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:07:s : Get request for checkup details
+###  2018-3-21__18:07:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:07:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:07:s : Get request for Patients Details
+###  2018-3-21__18:07:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:07:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:09:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-3-21__18:09:s : login in Successful
+###  2018-3-21__18:09:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyMTYzNDE2MCwiZXhwIjoxNTIxNjM0MjIwfQ.Q6kjLfW7KbO9-azY7W-fRVNP4x3tGdEN_Hdus7PbdTg
+###  2018-3-21__18:09:s : Get request for checkup details
+###  2018-3-21__18:09:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:09:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:09:s : Get request for Patients Details
+###  2018-3-21__18:09:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:09:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:09:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-3-21__18:09:s : login in Successful
+###  2018-3-21__18:09:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyMTYzNDE4NSwiZXhwIjoxNTIxNjM0MjQ1fQ.qbGaNB-2kIZEBhi3ZYFG1BCxr8Wte7tPFDbGe4uWRzY
+###  2018-3-21__18:09:s : Get request for Patients Details
+###  2018-3-21__18:09:s : patients_list.js: Patints Details Found
+###  2018-3-21__18:09:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__18:10:s : reg_id Request : 305WM3161247P12014FX
+###  2018-3-21__18:10:s : login in Successful
+###  2018-3-21__18:10:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJhc2RmIiwibGFzdF9uYW1lIjoidW5kZWZpbmVkIiwidXNlcl9uYW1lIjoidW5kZWZpbmVkIiwiZW1haWwiOiJhMyIsInBhc3N3b3JkIjoiYTMiLCJzaWdudXBfdmFsaWRpdHkiOiI3VEdIMiIsImNyZWF0ZWRfZGF0ZSI6IjIwMTgtMS0yMiIsImNyZWF0ZWRfdGltZSI6IjIzOjA5OnMiLCJpc19hZG1pbiI6InRydWUiLCJpc19kb2N0b3IiOiJ0cnVlIiwiaXNfbnVyc2UiOiJmYWxzZSIsImlzX3BhdGllbnRzIjoiZmFsc2UifSwiaWF0IjoxNTIxNjM0MjIzLCJleHAiOjE1MjE2MzQyODN9.JpXiuJ7gelQfd9umbt51CmMWW5DnkVXlUEbNEoLMc90
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : get-request-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : get-request_patients_list.js: Sending Hospital List
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : Get request for Hospital List
+###  2018-3-21__18:10:s : get-hospital-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : Get request for Hospital List
+###  2018-3-21__18:10:s : get-hospital-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : Get request for Doctor List
+###  2018-3-21__18:10:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:10:s : Get request for Patients Details
+###  2018-3-21__18:10:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__18:10:s : patients_list.js: Patints Details Found
+###  2018-3-21__18:10:s : Get request for Patients Details
+###  2018-3-21__18:10:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:10:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:10:s : Get request for Patients checkup Details
+###  2018-3-21__18:10:s : patients_checkup_details.js: Patints Details Found
+###  2018-3-21__18:10:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-3-21__18:11:s : Get request for Patients checkup Details
+###  2018-3-21__18:11:s : patients_checkup_info.js: Patints Details Found
+###  2018-3-21__18:11:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-3-21__18:11:s : Get request for Patients checkup Details
+###  2018-3-21__18:11:s : patients_checkup_info.js: Patints Details Found
+###  2018-3-21__18:11:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-3-21__18:12:s : Get request for Patients checkup Details
+###  2018-3-21__18:12:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-3-21__18:12:s : patients_checkup_info.js: Patints Details Found
+###  2018-3-21__18:12:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-3-21__18:12:s : login in Successful
+###  2018-3-21__18:12:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyMTYzNDM2NCwiZXhwIjoxNTIxNjM0NDI0fQ.qtx3UGccbaQjJ6sngvuLqn2KxU5S5EIDhYc192NgozA
+###  2018-3-21__18:12:s : Get request for checkup details
+###  2018-3-21__18:12:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:12:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:12:s : Get request for Patients Details
+###  2018-3-21__18:12:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:12:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:13:s : Get request for Patients Details
+###  2018-3-21__18:13:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:13:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:16:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-3-21__18:16:s : login in Successful
+###  2018-3-21__18:16:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyMTYzNDU5MSwiZXhwIjoxNTIxNjM0NjUxfQ.cKWIqcjAADSpQSLdvyfLCK6lWmtaMpigBqbXg7CTRXQ
+###  2018-3-21__18:16:s : Get request for checkup details
+###  2018-3-21__18:16:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:16:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:16:s : login in Successful
+###  2018-3-21__18:16:s : reg_id Request : 305WM3161247P12014FX
+###  2018-3-21__18:16:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJhc2RmIiwibGFzdF9uYW1lIjoidW5kZWZpbmVkIiwidXNlcl9uYW1lIjoidW5kZWZpbmVkIiwiZW1haWwiOiJhMyIsInBhc3N3b3JkIjoiYTMiLCJzaWdudXBfdmFsaWRpdHkiOiI3VEdIMiIsImNyZWF0ZWRfZGF0ZSI6IjIwMTgtMS0yMiIsImNyZWF0ZWRfdGltZSI6IjIzOjA5OnMiLCJpc19hZG1pbiI6InRydWUiLCJpc19kb2N0b3IiOiJ0cnVlIiwiaXNfbnVyc2UiOiJmYWxzZSIsImlzX3BhdGllbnRzIjoiZmFsc2UifSwiaWF0IjoxNTIxNjM0NjA3LCJleHAiOjE1MjE2MzQ2Njd9.0XIpqNX2ZcrwArGaQq3JVQiv7-cnW7wS9jsEQ_Nvy5Q
+###  2018-3-21__18:16:s : Get request for Doctor List
+###  2018-3-21__18:16:s : Get request for Doctor List
+###  2018-3-21__18:16:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:16:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:16:s : Get request for Doctor List
+###  2018-3-21__18:16:s : get-request-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:16:s : Get request for Doctor List
+###  2018-3-21__18:16:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:16:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:16:s : Get request for Doctor List
+###  2018-3-21__18:17:s : Get request for Doctor List
+###  2018-3-21__18:17:s : Get request for Doctor List
+###  2018-3-21__18:17:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:17:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:17:s : Get request for Doctor List
+###  2018-3-21__18:17:s : get-request-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:17:s : Get request for Doctor List
+###  2018-3-21__18:17:s : Get request for Doctor List
+###  2018-3-21__18:17:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:17:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:17:s : Get request for Doctor List
+###  2018-3-21__18:17:s : get-request_patients_list.js: Sending Hospital List
+###  2018-3-21__18:17:s : Get request for Doctor List
+###  2018-3-21__18:17:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:17:s : Get request for Doctor List
+###  2018-3-21__18:17:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:18:s : login in Successful
+###  2018-3-21__18:18:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-3-21__18:18:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyMTYzNDY4MiwiZXhwIjoxNTIxNjM0NzQyfQ.rNQjypNQfyJM9XXLETzeY-SQ96vAm9IiIL0NAdzIDT8
+###  2018-3-21__18:18:s : Get request for checkup details
+###  2018-3-21__18:18:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:18:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:18:s : Get request for Patients Details
+###  2018-3-21__18:18:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:18:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:18:s : reg_id Request : 305WM3161247P12014FX
+###  2018-3-21__18:18:s : login in Successful
+###  2018-3-21__18:18:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJhc2RmIiwibGFzdF9uYW1lIjoidW5kZWZpbmVkIiwidXNlcl9uYW1lIjoidW5kZWZpbmVkIiwiZW1haWwiOiJhMyIsInBhc3N3b3JkIjoiYTMiLCJzaWdudXBfdmFsaWRpdHkiOiI3VEdIMiIsImNyZWF0ZWRfZGF0ZSI6IjIwMTgtMS0yMiIsImNyZWF0ZWRfdGltZSI6IjIzOjA5OnMiLCJpc19hZG1pbiI6InRydWUiLCJpc19kb2N0b3IiOiJ0cnVlIiwiaXNfbnVyc2UiOiJmYWxzZSIsImlzX3BhdGllbnRzIjoiZmFsc2UifSwiaWF0IjoxNTIxNjM0NzI5LCJleHAiOjE1MjE2MzQ3ODl9.tpjUqXt1yv7Wy2TiaNwfNv0Z2Na6EQYMuD2KiwL2VZw
+###  2018-3-21__18:18:s : Get request for Doctor List
+###  2018-3-21__18:18:s : Get request for Doctor List
+###  2018-3-21__18:18:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:18:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:19:s : Get request for Hospital List
+###  2018-3-21__18:19:s : get-hospital-list.js: Sending Hospital List
+###  2018-3-21__18:19:s : Get request for Hospital List
+###  2018-3-21__18:19:s : get-hospital-list.js: Sending Hospital List
+###  2018-3-21__18:19:s : Get request for Doctor List
+###  2018-3-21__18:19:s : Get request for Doctor List
+###  2018-3-21__18:19:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:19:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:19:s : reg_id Request : 305WM3161247P12014FX
+###  2018-3-21__18:19:s : login in Successful
+###  2018-3-21__18:19:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJhc2RmIiwibGFzdF9uYW1lIjoidW5kZWZpbmVkIiwidXNlcl9uYW1lIjoidW5kZWZpbmVkIiwiZW1haWwiOiJhMyIsInBhc3N3b3JkIjoiYTMiLCJzaWdudXBfdmFsaWRpdHkiOiI3VEdIMiIsImNyZWF0ZWRfZGF0ZSI6IjIwMTgtMS0yMiIsImNyZWF0ZWRfdGltZSI6IjIzOjA5OnMiLCJpc19hZG1pbiI6InRydWUiLCJpc19kb2N0b3IiOiJ0cnVlIiwiaXNfbnVyc2UiOiJmYWxzZSIsImlzX3BhdGllbnRzIjoiZmFsc2UifSwiaWF0IjoxNTIxNjM0NzYwLCJleHAiOjE1MjE2MzQ4MjB9.8GRtPe3P4_PGFnu4XkcB7MZfS0WYdRNYR7Kn-T68uQo
+###  2018-3-21__18:19:s : Get request for Patients Details
+###  2018-3-21__18:19:s : patients_list.js: Patints Details Found
+###  2018-3-21__18:19:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__18:19:s : Get request for Patients Details
+###  2018-3-21__18:19:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:19:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:19:s : Get request for Patients checkup Details
+###  2018-3-21__18:19:s : patients_checkup_details.js: Patints Details Found
+###  2018-3-21__18:19:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-3-21__18:19:s : Get request for Patients checkup Details
+###  2018-3-21__18:19:s : patients_checkup_info.js: Patints Details Found
+###  2018-3-21__18:19:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-3-21__18:20:s : Get request for Patients checkup Details
+###  2018-3-21__18:20:s : patients_checkup_info.js: Patints Details Found
+###  2018-3-21__18:20:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-3-21__18:24:s : reg_id Request : 305WM3161247P12014FX
+###  2018-3-21__18:24:s : login in Successful
+###  2018-3-21__18:24:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJhc2RmIiwibGFzdF9uYW1lIjoidW5kZWZpbmVkIiwidXNlcl9uYW1lIjoidW5kZWZpbmVkIiwiZW1haWwiOiJhMyIsInBhc3N3b3JkIjoiYTMiLCJzaWdudXBfdmFsaWRpdHkiOiI3VEdIMiIsImNyZWF0ZWRfZGF0ZSI6IjIwMTgtMS0yMiIsImNyZWF0ZWRfdGltZSI6IjIzOjA5OnMiLCJpc19hZG1pbiI6InRydWUiLCJpc19kb2N0b3IiOiJ0cnVlIiwiaXNfbnVyc2UiOiJmYWxzZSIsImlzX3BhdGllbnRzIjoiZmFsc2UifSwiaWF0IjoxNTIxNjM1MDkyLCJleHAiOjE1MjE2MzUxNTJ9.LHt3SQdDSB_giE3YSo-U_UI_AAqqrNMSZc4ntj-83eM
+###  2018-3-21__18:24:s : Get request for Doctor List
+###  2018-3-21__18:24:s : Get request for Doctor List
+###  2018-3-21__18:24:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:24:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:25:s : Get request for Doctor List
+###  2018-3-21__18:25:s : get-request-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:25:s : Get request for Doctor List
+###  2018-3-21__18:25:s : Get request for Doctor List
+###  2018-3-21__18:25:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:25:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:25:s : Get request for Doctor List
+###  2018-3-21__18:25:s : get-request_patients_list.js: Sending Hospital List
+###  2018-3-21__18:25:s : Get request for Doctor List
+###  2018-3-21__18:25:s : Get request for Doctor List
+###  2018-3-21__18:25:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:25:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:25:s : doctor-signup.js: New doctor Signup request
+###  2018-3-21__18:25:s : doctor-signup.js: Signup successful
+###  2018-3-21__18:25:s : email-verification.js: Email Sending
+###  2018-3-21__18:25:s : New Token Created
+###  2018-3-21__18:25:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFhIiwicmVnX2lkIjoiUDFFVFRGSkhUMVpQM1dTNDlBUDQiLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6IlQ2TUNBIiwiaWF0IjoxNTIxNjM1MTMyLCJleHAiOjE1MjE2MzUxOTJ9.78cIO2DNEa9TA6fZXvFFHMN4C3Gw--P8dWHrPiR3PYI
+###  2018-3-21__18:25:s : email-verification.js: Error : Error: No recipients defined
+###  2018-3-21__18:26:s : doctor-finalize.js: New doctor Signup request
+###  2018-3-21__18:26:s : doctor-finalize.js: Signup successful
+###  2018-3-21__18:26:s : doctor-finalize.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IlAxRVRURkpIVDFaUDNXUzQ5QVA0IiwiaWF0IjoxNTIxNjM1MTc5LCJleHAiOjE1MjE2MzUyMzl9.fOgF9BoDDmBniQVyThmHY6K-w4QYL3u0OkSl21b9mbs
+###  2018-3-21__18:26:s : New Token Created
+###  2018-3-21__18:26:s : Get request for Patients Details
+###  2018-3-21__18:26:s : patients_list.js: Patints Details Found
+###  2018-3-21__18:26:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__18:26:s : login in Successful
+###  2018-3-21__18:26:s : reg_id Request : 305WM3161247P12014FX
+###  2018-3-21__18:26:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJhc2RmIiwibGFzdF9uYW1lIjoidW5kZWZpbmVkIiwidXNlcl9uYW1lIjoidW5kZWZpbmVkIiwiZW1haWwiOiJhMyIsInBhc3N3b3JkIjoiYTMiLCJzaWdudXBfdmFsaWRpdHkiOiI3VEdIMiIsImNyZWF0ZWRfZGF0ZSI6IjIwMTgtMS0yMiIsImNyZWF0ZWRfdGltZSI6IjIzOjA5OnMiLCJpc19hZG1pbiI6InRydWUiLCJpc19kb2N0b3IiOiJ0cnVlIiwiaXNfbnVyc2UiOiJmYWxzZSIsImlzX3BhdGllbnRzIjoiZmFsc2UifSwiaWF0IjoxNTIxNjM1MTkwLCJleHAiOjE1MjE2MzUyNTB9.xCtwF-SW2WzaYiFTZXOW8wmMY8qfLwfQF6_AtVr2dpg
+###  2018-3-21__18:26:s : Get request for Doctor List
+###  2018-3-21__18:26:s : Get request for Doctor List
+###  2018-3-21__18:26:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:26:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:26:s : Get request for Doctor List
+###  2018-3-21__18:26:s : get-request-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:26:s : Get request for New Admission
+###  2018-3-21__18:26:s : accept-accept-request.js: Sending Hospital List
+###  2018-3-21__18:26:s : Get request for Doctor List
+###  2018-3-21__18:26:s : get-request-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:26:s : Get request for Doctor List
+###  2018-3-21__18:26:s : Get request for Doctor List
+###  2018-3-21__18:26:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:26:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:27:s : Get request for Hospital List
+###  2018-3-21__18:27:s : get-hospital-list.js: Sending Hospital List
+###  2018-3-21__18:27:s : Get request for Hospital List
+###  2018-3-21__18:27:s : get-hospital-list.js: Sending Hospital List
+###  2018-3-21__18:27:s : Get request for Doctor List
+###  2018-3-21__18:27:s : Get request for Doctor List
+###  2018-3-21__18:27:s : get-active-patients-list.js: Sending Hospital List
+###  2018-3-21__18:27:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-3-21__18:27:s : Get request for Patients Details
+###  2018-3-21__18:27:s : patients_list.js: Patints Details Found
+###  2018-3-21__18:27:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__18:27:s : Get request for Patients Details
+###  2018-3-21__18:27:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:27:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:27:s : Get request for Patients checkup Details
+###  2018-3-21__18:27:s : patients_checkup_details.js: Patints Details Found
+###  2018-3-21__18:27:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-3-21__18:27:s : Get request for Patients checkup Details
+###  2018-3-21__18:27:s : patients_checkup_info.js: Patints Details Found
+###  2018-3-21__18:27:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-3-21__18:28:s : Get request for Patients Details
+###  2018-3-21__18:28:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:28:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:28:s : Get request for Patients checkup Details
+###  2018-3-21__18:28:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-3-21__18:28:s : patients_checkup_details.js: Patints Details Found
+###  2018-3-21__18:28:s : Get request for Patients Details
+###  2018-3-21__18:28:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:28:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:28:s : Get request for Patients checkup Details
+###  2018-3-21__18:28:s : patients_checkup_details.js: Patints Details Found
+###  2018-3-21__18:28:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-3-21__18:28:s : Get request for Patients Details
+###  2018-3-21__18:28:s : patients_list.js: Patints Details Found
+###  2018-3-21__18:28:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__18:28:s : Get request for Doctor Information
+###  2018-3-21__18:28:s : doctor_info.js: Patints Details Found
+###  2018-3-21__18:28:s : doctor_info.js: Patients Detials Sending 
+###  2018-3-21__18:28:s : Update request for Doctor Information
+###  2018-3-21__18:28:s : update_doctor_info.js: Patints Details Found
+###  2018-3-21__18:28:s : update_doctor_info.js: Patients Detials Sending 
+###  2018-3-21__18:28:s : Get request for Doctor Information
+###  2018-3-21__18:28:s : doctor_info.js: Patints Details Found
+###  2018-3-21__18:28:s : doctor_info.js: Patients Detials Sending 
+###  2018-3-21__18:28:s : Get request for Doctor Information
+###  2018-3-21__18:28:s : doctor_info.js: Patints Details Found
+###  2018-3-21__18:28:s : doctor_info.js: Patients Detials Sending 
+###  2018-3-21__18:37:s : reg_id Request : 305WM3161247P12014FX
+###  2018-3-21__18:37:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjE2MzU4NTgsImV4cCI6MTUyMTYzNTkxOH0.5FIxCAW5JXGLcml_BhTb-ksurwDtxRfb3L7Go8DyJ3A
+###  2018-3-21__18:37:s : login in Successful
+###  2018-3-21__18:37:s : Get request for Patients Details
+###  2018-3-21__18:37:s : patients_list.js: Patients Detials Sending 
+###  2018-3-21__18:37:s : patients_list.js: Patints Details Found
+###  2018-3-21__18:37:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-3-21__18:37:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyMTYzNTg3OCwiZXhwIjoxNTIxNjM1OTM4fQ.yw_BIzLZ8wXYAb7Qdw07lsT8XvCbVi67jY4gWGsbFe0
+###  2018-3-21__18:37:s : login in Successful
+###  2018-3-21__18:37:s : Get request for checkup details
+###  2018-3-21__18:37:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:37:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:38:s : Get request for Hospital Name Request
+###  2018-3-21__18:38:s : request.js: Sending Hospital List
+###  2018-3-21__18:38:s : Get request for Doctor List Request
+###  2018-3-21__18:38:s : request.js: Sending Doctor List
+###  2018-3-21__18:38:s : Get request for Nurse list Request
+###  2018-3-21__18:38:s : request.js: Sending Nurse List
+###  2018-3-21__18:38:s : Get request for checkup details
+###  2018-3-21__18:38:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:38:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:38:s : Get request for Patients Details
+###  2018-3-21__18:38:s : patients_details.js: Patints Details Found
+###  2018-3-21__18:38:s : patients_details.js: Patients Detials Sending 
+###  2018-3-21__18:38:s : Get request for checkup details
+###  2018-3-21__18:38:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:38:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-3-21__18:38:s : Get request for checkup details
+###  2018-3-21__18:38:s : checkup-details.js: Existing user,New role added successful
+###  2018-3-21__18:38:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:15:s : Program Start
+###  2018-5-4__8:18:s : login in Successful
+###  2018-5-4__8:18:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-5-4__8:18:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyNTQwMDMzNiwiZXhwIjoxNTI1NDAwMzk2fQ.yVUTyMalAavZGoe0CLGxnTGgwMURBOLyolJxGal1xHc
+###  2018-5-4__8:19:s : Get request for checkup details
+###  2018-5-4__8:19:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:19:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:19:s : Get request for Patients Details
+###  2018-5-4__8:19:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:19:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:19:s : Get request for checkup details
+###  2018-5-4__8:19:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:19:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:19:s : Get request for checkup details
+###  2018-5-4__8:19:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:19:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:19:s : Get request for Patients Details
+###  2018-5-4__8:19:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:19:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:22:s : Get request for Patients Details
+###  2018-5-4__8:22:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:22:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:23:s : Get request for Patients Details
+###  2018-5-4__8:23:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:23:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:24:s : Get request for Patients Details
+###  2018-5-4__8:24:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:24:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:24:s : Get request for Patients Details
+###  2018-5-4__8:24:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:24:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:24:s : Get request for checkup details
+###  2018-5-4__8:24:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:24:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:24:s : Get request for Patients Details
+###  2018-5-4__8:24:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:24:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:24:s : Get request for checkup details
+###  2018-5-4__8:24:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:24:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:25:s : Get request for checkup details
+###  2018-5-4__8:25:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:25:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:25:s : Get request for Patients Details
+###  2018-5-4__8:25:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:25:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:26:s : Get request for Patients Details
+###  2018-5-4__8:26:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:26:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:27:s : Get request for checkup details
+###  2018-5-4__8:27:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:27:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:29:s : Get request for checkup details
+###  2018-5-4__8:29:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:29:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:29:s : Get request for Patients Details
+###  2018-5-4__8:29:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:29:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:32:s : Get request for Patients Details
+###  2018-5-4__8:32:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:32:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:33:s : Get request for checkup details
+###  2018-5-4__8:33:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:33:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:33:s : Get request for Patients Details
+###  2018-5-4__8:33:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:33:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:45:s : Get request for Patients Details
+###  2018-5-4__8:45:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:45:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:46:s : Get request for Patients Details
+###  2018-5-4__8:46:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:46:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:47:s : Get request for Patients Details
+###  2018-5-4__8:47:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:47:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:48:s : Get request for Patients Details
+###  2018-5-4__8:48:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:48:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:48:s : Get request for Patients Details
+###  2018-5-4__8:48:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:48:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:50:s : Get request for Patients Details
+###  2018-5-4__8:50:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:50:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:50:s : Get request for Patients Details
+###  2018-5-4__8:50:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:50:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:51:s : Get request for Patients Details
+###  2018-5-4__8:51:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:51:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:51:s : Get request for checkup details
+###  2018-5-4__8:51:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:51:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:51:s : Get request for checkup details
+###  2018-5-4__8:51:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:51:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:51:s : Get request for Patients Details
+###  2018-5-4__8:51:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:51:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:51:s : Get request for checkup details
+###  2018-5-4__8:51:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:51:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:51:s : Get request for Patients Details
+###  2018-5-4__8:51:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:51:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:51:s : Get request for checkup details
+###  2018-5-4__8:51:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__8:51:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:51:s : Get request for Patients Details
+###  2018-5-4__8:51:s : patients_details.js: Patints Details Found
+###  2018-5-4__8:51:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__8:51:s : Get request for checkup details
+###  2018-5-4__8:51:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__8:51:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__9:16:s : Program Start
+###  2018-5-4__9:16:s : Get request for checkup details
+###  2018-5-4__9:16:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__9:16:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__9:21:s : Get request for Patients Details
+###  2018-5-4__9:21:s : patients_details.js: Patints Details Found
+###  2018-5-4__9:21:s : patients_details.js: Patients Detials Sending 
+###  2018-5-4__9:21:s : Get request for checkup details
+###  2018-5-4__9:21:s : checkup-details.js: Existing user,New role added successful
+###  2018-5-4__9:21:s : checkup-details.js: Added new user role(Existing ID) Token : 
+###  2018-5-4__9:22:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-5-4__9:22:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyNTQwNDEyMSwiZXhwIjoxNTI1NDA0MTgxfQ.c3Tf9RirvB97aW0ah9yXp2OBatQ2tCXmnnA2fOo-CA4
+###  2018-5-4__9:22:s : login in Successful
+###  2018-5-4__9:22:s : Get request for Patients Details
+###  2018-5-4__9:22:s : patients_list.js: Patints Details Found
+###  2018-5-4__9:22:s : patients_list.js: Patients Detials Sending 
+###  2018-5-4__9:22:s : Get request for Doctor Information
+###  2018-5-4__9:22:s : doctor_info.js: Patints Details Found
+###  2018-5-4__9:22:s : doctor_info.js: Patients Detials Sending 
+###  2018-5-4__9:22:s : Get request for Patients Details
+###  2018-5-4__9:22:s : patients_list.js: Patints Details Found
+###  2018-5-4__9:22:s : patients_list.js: Patients Detials Sending 
+###  2018-5-4__9:22:s : Get request for Doctor Information
+###  2018-5-4__9:22:s : doctor_info.js: Patints Details Found
+###  2018-5-4__9:22:s : doctor_info.js: Patients Detials Sending 
+###  2018-5-4__9:22:s : Get request for Patients Details
+###  2018-5-4__9:22:s : patients_list.js: Patints Details Found
+###  2018-5-4__9:22:s : patients_list.js: Patients Detials Sending 
+###  2018-5-8__16:46:s : Program Start
+###  2018-5-8__16:48:s : Program Start
+###  2018-5-8__16:48:s : Program Start
+###  2018-5-8__16:48:s : Error: Table 'rhcapi.users' doesn't exist
+###  2018-5-8__16:48:s : Login Failed
+###  2018-5-8__16:48:s : Failed Error : Error: Table 'rhcapi.users' doesn't exist
+###  2018-5-8__16:54:s : reg_id Request : F71LV5EL8038EZGFU1BG
+###  2018-5-8__16:54:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJGNzFMVjVFTDgwMzhFWkdGVTFCRyIsImZpcnN0X25hbWUiOiJhc2RzYWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InNydiIsInBhc3N3b3JkIjoic3J2Iiwic2lnbnVwX3ZhbGlkaXR5IjoiRThLMDMiLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTItMjMiLCJjcmVhdGVkX3RpbWUiOiIyMDo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJ0cnVlIn0sImlhdCI6MTUyNTc3Njg5OCwiZXhwIjoxNTI1Nzc2OTU4fQ.VZPWiPmSAZrzLmr-_OnzdK7OF29Krl-BHnAHkSvyBoc
+###  2018-5-8__16:54:s : login in Successful
+###  2018-5-9__19:54:s : Program Start
+###  2018-5-9__19:54:s : Program Start
+###  2018-5-9__20:38:s : Program Start
+###  2018-5-9__20:39:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:39:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:39:s : ecg-api.js: Signup successful
+###  2018-5-9__20:40:s : Program Start
+###  2018-5-9__20:40:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:40:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:40:s : ecg-api.js: Signup successful
+###  2018-5-9__20:42:s : Program Start
+###  2018-5-9__20:42:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:42:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:42:s : ecg-api.js: Signup successful
+###  2018-5-9__20:43:s : Program Start
+###  2018-5-9__20:43:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:43:s : Program Start
+###  2018-5-9__20:43:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:43:s : ecg-api.js: Signup successful
+###  2018-5-9__20:45:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:45:s : ecg-api.js: Signup successful
+###  2018-5-9__20:45:s : Program Start
+###  2018-5-9__20:45:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:45:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:45:s : ecg-api.js: Signup successful
+###  2018-5-9__20:46:s : Program Start
+###  2018-5-9__20:46:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:46:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:46:s : ecg-api.js: Signup successful
+###  2018-5-9__20:46:s : Program Start
+###  2018-5-9__20:46:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:46:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:46:s : ecg-api.js: Signup successful
+###  2018-5-9__20:47:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:47:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:47:s : ecg-api.js: Signup successful
+###  2018-5-9__20:47:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:47:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:47:s : ecg-api.js: Signup successful
+###  2018-5-9__20:48:s : Program Start
+###  2018-5-9__20:48:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:48:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:48:s : ecg-api.js: Signup successful
+###  2018-5-9__20:49:s : Program Start
+###  2018-5-9__20:49:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:49:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:49:s : ecg-api.js: Signup successful
+###  2018-5-9__20:49:s : Program Start
+###  2018-5-9__20:49:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:49:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:49:s : ecg-api.js: Signup successful
+###  2018-5-9__20:50:s : Program Start
+###  2018-5-9__20:50:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:50:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:50:s : ecg-api.js: Signup successful
+###  2018-5-9__20:51:s : Program Start
+###  2018-5-9__20:51:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:51:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:51:s : ecg-api.js: Signup successful
+###  2018-5-9__20:51:s : Program Start
+###  2018-5-9__20:51:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:51:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:51:s : ecg-api.js: Signup successful
+###  2018-5-9__20:52:s : Program Start
+###  2018-5-9__20:52:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:52:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:52:s : ecg-api.js: Signup successful
+###  2018-5-9__20:55:s : Program Start
+###  2018-5-9__20:55:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:56:s : Program Start
+###  2018-5-9__20:56:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__20:56:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__20:56:s : ecg-api.js: Signup successful
+###  2018-5-9__21:01:s : Program Start
+###  2018-5-9__21:01:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:01:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__21:01:s : ecg-api.js: Signup successful
+###  2018-5-9__21:05:s : Program Start
+###  2018-5-9__21:05:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:05:s : ecg-sec.js: Get Data Prev ECG Secq
+###  2018-5-9__21:05:s : ecg-api.js: Signup successful
+###  2018-5-9__21:09:s : Program Start
+###  2018-5-9__21:09:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:10:s : Program Start
+###  2018-5-9__21:10:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:10:s : ecg-sec.js: store Error : TypeError: callback is not a function
+###  2018-5-9__21:10:s : ecg-api.js: Signup successful
+###  2018-5-9__21:24:s : Program Start
+###  2018-5-9__21:24:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:24:s : ecg-sec.js: store Error : TypeError: callback is not a function
+###  2018-5-9__21:24:s : ecg-api.js: Signup successful
+###  2018-5-9__21:25:s : Program Start
+###  2018-5-9__21:25:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:25:s : ecg-api.js: Signup successful
+###  2018-5-9__21:27:s : Program Start
+###  2018-5-9__21:27:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:27:s : ecg-api.js: Signup successful
+###  2018-5-9__21:27:s : Program Start
+###  2018-5-9__21:27:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:27:s : ecg-api.js: Signup successful
+###  2018-5-9__21:33:s : Program Start
+###  2018-5-9__21:33:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:34:s : Program Start
+###  2018-5-9__21:34:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:52:s : Program Start
+###  2018-5-9__21:52:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:56:s : Program Start
+###  2018-5-9__21:56:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:56:s : ecg-api.js: Signup successful
+###  2018-5-9__21:56:s : ecg-api.js: New doctor Signup request
+###  2018-5-9__21:56:s : ecg-api.js: Signup successful
+###  2018-5-10__9:48:s : Program Start
+###  2018-5-10__9:49:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-10__9:49:s : login in Successful
+###  2018-5-10__9:49:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjU5MjQxODMsImV4cCI6MTUyNTkyNDI0M30.9avpcfCw5anQCNgFs34Mvzufx3ljUy7ib67OLC-JLME
+###  2018-5-10__9:49:s : Get request for Patients Details
+###  2018-5-10__9:49:s : patients_list.js: Patints Details Found
+###  2018-5-10__9:49:s : patients_list.js: Patients Detials Sending 
+###  2018-5-10__9:49:s : Get request for Patients Details
+###  2018-5-10__9:49:s : patients_details.js: Patints Details Found
+###  2018-5-10__9:49:s : patients_details.js: Patients Detials Sending 
+###  2018-5-10__9:49:s : Get request for Patients checkup Details
+###  2018-5-10__9:49:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-10__9:49:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-10__9:51:s : Get request for Patients Details
+###  2018-5-10__9:51:s : patients_details.js: Patints Details Found
+###  2018-5-10__9:51:s : patients_details.js: Patients Detials Sending 
+###  2018-5-10__9:51:s : Get request for Patients checkup Details
+###  2018-5-10__9:51:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-10__9:51:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-10__9:52:s : Get request for Patients Details
+###  2018-5-10__9:52:s : patients_details.js: Patints Details Found
+###  2018-5-10__9:52:s : patients_details.js: Patients Detials Sending 
+###  2018-5-10__9:52:s : Get request for Patients checkup Details
+###  2018-5-10__9:52:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-10__9:52:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-10__9:58:s : Get request for Patients checkup Details
+###  2018-5-10__9:58:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__9:58:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__9:59:s : Get request for Patients checkup Details
+###  2018-5-10__9:59:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__9:59:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__9:59:s : Get request for Patients checkup Details
+###  2018-5-10__9:59:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__9:59:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:00:s : Get request for Patients checkup Details
+###  2018-5-10__10:00:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:00:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:00:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-10__10:00:s : login in Successful
+###  2018-5-10__10:00:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjU5MjQ4NDEsImV4cCI6MTUyNTkyNDkwMX0.pqcti407FOvyZ2ipwsU4VbdRxWQDjeGqOqzIAREuvLQ
+###  2018-5-10__10:00:s : Get request for Patients Details
+###  2018-5-10__10:00:s : patients_list.js: Patints Details Found
+###  2018-5-10__10:00:s : patients_list.js: Patients Detials Sending 
+###  2018-5-10__10:00:s : Get request for Patients Details
+###  2018-5-10__10:00:s : patients_details.js: Patints Details Found
+###  2018-5-10__10:00:s : patients_details.js: Patients Detials Sending 
+###  2018-5-10__10:00:s : Get request for Patients checkup Details
+###  2018-5-10__10:00:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-10__10:00:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-10__10:00:s : Get request for Patients checkup Details
+###  2018-5-10__10:00:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:00:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:01:s : Get request for Patients checkup Details
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:02:s : Get request for Patients checkup Details
+###  2018-5-10__10:02:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:02:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:02:s : Get request for Patients checkup Details
+###  2018-5-10__10:02:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:02:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:02:s : Get request for Patients checkup Details
+###  2018-5-10__10:02:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:02:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:03:s : Get request for Patients checkup Details
+###  2018-5-10__10:03:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:03:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:06:s : Get request for Patients checkup Details
+###  2018-5-10__10:06:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:06:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:06:s : Get request for Patients checkup Details
+###  2018-5-10__10:06:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:06:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:07:s : Get request for Patients checkup Details
+###  2018-5-10__10:07:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:07:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:09:s : Get request for Patients checkup Details
+###  2018-5-10__10:09:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:09:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:10:s : Get request for Patients checkup Details
+###  2018-5-10__10:10:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:10:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:12:s : Get request for Patients checkup Details
+###  2018-5-10__10:12:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:12:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:31:s : Get request for Patients checkup Details
+###  2018-5-10__10:31:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:31:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:32:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:32:s : Get request for Patients checkup Details
+###  2018-5-10__10:32:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:32:s : Get request for Patients checkup Details
+###  2018-5-10__10:32:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:32:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:33:s : Get request for Patients checkup Details
+###  2018-5-10__10:33:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:33:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:36:s : Get request for Patients checkup Details
+###  2018-5-10__10:36:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:36:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:37:s : Get request for Patients checkup Details
+###  2018-5-10__10:37:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:37:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:38:s : Get request for Patients checkup Details
+###  2018-5-10__10:38:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:38:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:42:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:42:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:42:s : Get request for Patients checkup Details
+###  2018-5-10__10:47:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjU5Mjc2NDUsImV4cCI6MTUyNTkyNzcwNX0.gqsoobl5GIkhnCljRocQ9T7v0BlI0cbej_U3B5PsVsk
+###  2018-5-10__10:47:s : login in Successful
+###  2018-5-10__10:47:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-10__10:47:s : Get request for Patients Details
+###  2018-5-10__10:47:s : patients_list.js: Patints Details Found
+###  2018-5-10__10:47:s : patients_list.js: Patients Detials Sending 
+###  2018-5-10__10:47:s : Get request for Patients Details
+###  2018-5-10__10:47:s : patients_details.js: Patints Details Found
+###  2018-5-10__10:47:s : patients_details.js: Patients Detials Sending 
+###  2018-5-10__10:47:s : Get request for Patients checkup Details
+###  2018-5-10__10:47:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-10__10:47:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-10__10:47:s : Get request for Patients checkup Details
+###  2018-5-10__10:47:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:47:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:49:s : Get request for Patients checkup Details
+###  2018-5-10__10:49:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:49:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:50:s : Get request for Patients checkup Details
+###  2018-5-10__10:50:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:50:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__10:51:s : Get request for Patients checkup Details
+###  2018-5-10__10:51:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__10:51:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__11:06:s : Get request for Patients checkup Details
+###  2018-5-10__11:06:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__11:06:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__11:20:s : Get request for Patients checkup Details
+###  2018-5-10__11:20:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__11:20:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-10__11:42:s : Get request for Patients checkup Details
+###  2018-5-10__11:42:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-10__11:42:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__13:50:s : Program Start
+###  2018-5-11__13:50:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-11__13:50:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjYwMjUwNDcsImV4cCI6MTUyNjAyNTEwN30.phMKgQ4vUv4fGvhUOMNgBSe88PGxI160nHwm3AyiaZc
+###  2018-5-11__13:50:s : login in Successful
+###  2018-5-11__13:50:s : Get request for Patients Details
+###  2018-5-11__13:50:s : patients_list.js: Patints Details Found
+###  2018-5-11__13:50:s : patients_list.js: Patients Detials Sending 
+###  2018-5-11__13:50:s : Get request for Patients Details
+###  2018-5-11__13:50:s : patients_details.js: Patints Details Found
+###  2018-5-11__13:50:s : patients_details.js: Patients Detials Sending 
+###  2018-5-11__13:50:s : Get request for Patients checkup Details
+###  2018-5-11__13:50:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-11__13:50:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-11__13:50:s : Get request for Patients checkup Details
+###  2018-5-11__13:50:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__13:50:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__13:55:s : Get request for Patients checkup Details
+###  2018-5-11__13:55:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__13:55:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__13:57:s : Get request for Patients checkup Details
+###  2018-5-11__13:57:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__13:57:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__13:58:s : Get request for Patients checkup Details
+###  2018-5-11__13:58:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__13:58:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__13:59:s : Get request for Patients checkup Details
+###  2018-5-11__13:59:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__13:59:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__13:59:s : Get request for Patients checkup Details
+###  2018-5-11__13:59:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__13:59:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:01:s : Get request for Patients checkup Details
+###  2018-5-11__14:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:03:s : Get request for Patients checkup Details
+###  2018-5-11__14:03:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:03:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:03:s : Get request for Patients checkup Details
+###  2018-5-11__14:03:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:03:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:06:s : Get request for Patients checkup Details
+###  2018-5-11__14:06:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:06:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:08:s : Get request for Patients checkup Details
+###  2018-5-11__14:08:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:08:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:09:s : Get request for Patients checkup Details
+###  2018-5-11__14:09:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:09:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:09:s : Get request for Patients checkup Details
+###  2018-5-11__14:09:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:09:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:12:s : Get request for Patients checkup Details
+###  2018-5-11__14:12:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:12:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:13:s : Get request for Patients checkup Details
+###  2018-5-11__14:13:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:13:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:14:s : Get request for Patients checkup Details
+###  2018-5-11__14:14:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:14:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:14:s : Get request for Patients checkup Details
+###  2018-5-11__14:14:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:14:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:15:s : Get request for Patients checkup Details
+###  2018-5-11__14:15:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:15:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-11__14:15:s : Get request for Patients checkup Details
+###  2018-5-11__14:15:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-11__14:15:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-13__9:44:s : Program Start
+###  2018-5-13__9:52:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-13__9:52:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjYxODM1MzEsImV4cCI6MTUyNjE4MzU5MX0.F34kLKgCL-AyTJGDT1kFhqxcIscXsYsdhItuFbCciCc
+###  2018-5-13__9:52:s : login in Successful
+###  2018-5-13__9:57:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-13__9:57:s : login in Successful
+###  2018-5-13__9:57:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjYxODM4MzYsImV4cCI6MTUyNjE4Mzg5Nn0.7AOZRU1sPAAbwDIDWPfjtBzmfA7qitwm3b9VJrRQk1A
+###  2018-5-13__9:58:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-13__9:58:s : login in Successful
+###  2018-5-13__9:58:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjYxODM4OTQsImV4cCI6MTUyNjE4Mzk1NH0.jxohZutFB8HYWDz_IfKxgV_RE8kbXRR2WeMoKECm1UQ
+###  2018-5-13__9:58:s : Get request for Patients Details
+###  2018-5-13__9:58:s : patients_list.js: Patints Details Found
+###  2018-5-13__9:58:s : patients_list.js: Patients Detials Sending 
+###  2018-5-13__9:58:s : Get request for Patients Details
+###  2018-5-13__9:58:s : patients_details.js: Patints Details Found
+###  2018-5-13__9:58:s : patients_details.js: Patients Detials Sending 
+###  2018-5-13__9:58:s : Get request for Patients checkup Details
+###  2018-5-13__9:58:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-13__9:58:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-13__9:59:s : Get request for Patients Details
+###  2018-5-13__9:59:s : patients_details.js: Patients Detials Sending 
+###  2018-5-13__9:59:s : patients_details.js: Patints Details Found
+###  2018-5-13__9:59:s : Get request for Patients checkup Details
+###  2018-5-13__9:59:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-13__9:59:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-13__10:00:s : Get request for Patients Details
+###  2018-5-13__10:00:s : patients_details.js: Patints Details Found
+###  2018-5-13__10:00:s : patients_details.js: Patients Detials Sending 
+###  2018-5-13__10:00:s : Get request for Patients checkup Details
+###  2018-5-13__10:00:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-13__10:00:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-13__10:01:s : Get request for Patients checkup Details
+###  2018-5-13__10:01:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-13__10:01:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-13__10:09:s : Program Start
+###  2018-5-13__10:10:s : Get request for Patients checkup Details
+###  2018-5-13__10:10:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-13__10:10:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-13__10:17:s : Get request for Patients Details
+###  2018-5-13__10:17:s : patients_details.js: Patients Detials Sending 
+###  2018-5-13__10:17:s : patients_details.js: Patints Details Found
+###  2018-5-13__10:17:s : Get request for Patients checkup Details
+###  2018-5-13__10:17:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-13__10:17:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-13__10:21:s : Get request for Patients Details
+###  2018-5-13__10:21:s : patients_details.js: Patints Details Found
+###  2018-5-13__10:21:s : patients_details.js: Patients Detials Sending 
+###  2018-5-13__10:21:s : Get request for Patients checkup Details
+###  2018-5-13__10:21:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-13__10:21:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-13__10:24:s : Get request for Patients checkup Details
+###  2018-5-13__10:24:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-13__10:24:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-13__10:25:s : Get request for Patients Details
+###  2018-5-13__10:25:s : patients_details.js: Patints Details Found
+###  2018-5-13__10:25:s : patients_details.js: Patients Detials Sending 
+###  2018-5-13__10:25:s : Get request for Patients checkup Details
+###  2018-5-13__10:25:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-13__10:25:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-13__10:26:s : Get request for Patients checkup Details
+###  2018-5-13__10:26:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-13__10:26:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-13__10:27:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-13__10:27:s : login in Successful
+###  2018-5-13__10:27:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjYxODU2MzksImV4cCI6MTUyNjE4NTY5OX0.p7k-oSgTNUfuoEnI_aqiT7FMBCvJTzgPYGE6ovQicK8
+###  2018-5-13__10:27:s : Get request for Doctor List
+###  2018-5-13__10:27:s : Get request for Doctor List
+###  2018-5-13__10:27:s : get-active-patients-list.js: Sending Hospital List
+###  2018-5-13__10:27:s : get-active-doctor-list.js: Sending Hospital List
+###  2018-5-13__10:27:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-13__10:27:s : login in Successful
+###  2018-5-13__10:27:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjYxODU2NTcsImV4cCI6MTUyNjE4NTcxN30.GMCrciBAIP_UZ8Mx4lLKZECumEsKJx4mlOij7lxMM3Y
+###  2018-5-13__10:27:s : Get request for Patients Details
+###  2018-5-13__10:27:s : patients_list.js: Patints Details Found
+###  2018-5-13__10:27:s : patients_list.js: Patients Detials Sending 
+###  2018-5-13__10:27:s : Get request for Patients Details
+###  2018-5-13__10:27:s : patients_details.js: Patints Details Found
+###  2018-5-13__10:27:s : patients_details.js: Patients Detials Sending 
+###  2018-5-13__10:27:s : Get request for Patients checkup Details
+###  2018-5-13__10:27:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-13__10:27:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-13__10:27:s : Get request for Patients checkup Details
+###  2018-5-13__10:27:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-13__10:27:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-13__10:32:s : Program Start
+###  2018-5-13__10:33:s : ecg-api.js: New doctor Signup request
+###  2018-5-13__10:33:s : ecg-api.js: Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:33:s : ecg-api.js: store Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:34:s : ecg-api.js: New doctor Signup request
+###  2018-5-13__10:34:s : ecg-api.js: store Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:34:s : ecg-api.js: Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:35:s : ecg-api.js: New doctor Signup request
+###  2018-5-13__10:35:s : ecg-api.js: Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:35:s : ecg-api.js: store Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:35:s : ecg-api.js: New doctor Signup request
+###  2018-5-13__10:35:s : ecg-api.js: Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:35:s : ecg-api.js: store Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:36:s : ecg-api.js: New doctor Signup request
+###  2018-5-13__10:36:s : ecg-api.js: Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:36:s : ecg-api.js: store Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:37:s : ecg-api.js: New doctor Signup request
+###  2018-5-13__10:37:s : ecg-api.js: store Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:37:s : ecg-api.js: Error : Error: ER_BAD_FIELD_ERROR: Unknown column 'UserID' in 'field list'
+###  2018-5-13__10:38:s : Program Start
+###  2018-5-13__10:38:s : ecg-api.js: API Request
+###  2018-5-13__10:38:s : ecg-api.js: Signup successful
+###  2018-5-13__10:53:s : Program Start
+###  2018-5-13__10:56:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-13__10:56:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjYxODczODAsImV4cCI6MTUyNjE4NzQ0MH0.-SOnD1_6xVku4s8iaGx9M7Ks3k2S7NcbVntyzy2DYQ0
+###  2018-5-13__10:56:s : login in Successful
+###  2018-5-13__10:56:s : Get request for Patients Details
+###  2018-5-13__10:56:s : patients_list.js: Patints Details Found
+###  2018-5-13__10:56:s : patients_list.js: Patients Detials Sending 
+###  2018-5-13__10:56:s : Get request for Patients Details
+###  2018-5-13__10:56:s : patients_details.js: Patints Details Found
+###  2018-5-13__10:56:s : patients_details.js: Patients Detials Sending 
+###  2018-5-13__10:56:s : Get request for Patients checkup Details
+###  2018-5-13__10:56:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-13__10:56:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-13__10:56:s : Get request for Patients checkup Details
+###  2018-5-13__10:56:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-13__10:56:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-13__10:56:s : Program Start
+###  2018-5-13__10:57:s : Get request for Patients checkup Details
+###  2018-5-13__10:57:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-13__10:57:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-13__10:58:s : Program Start
+###  2018-5-13__10:58:s : ecg-api.js: API Request
+###  2018-5-13__10:58:s : ecg-api.js: Signup successful
+###  2018-5-13__11:00:s : Get request for Patients checkup Details
+###  2018-5-13__11:00:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-13__11:00:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-13__11:01:s : ecg-api.js: API Request
+###  2018-5-13__11:01:s : ecg-api.js: Signup successful
+###  2018-5-13__11:37:s : Program Start
+###  2018-5-15__18:40:s : Program Start
+###  2018-5-15__18:49:s : Program Start
+###  2018-5-15__18:54:s : Get request for Patients checkup Details
+###  2018-5-15__18:54:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__18:54:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:03:s : Program Start
+###  2018-5-15__19:04:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-15__19:04:s : login in Successful
+###  2018-5-15__19:04:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjYzODk0NDAsImV4cCI6MTUyNjM4OTUwMH0.1pIMUUMyAoX8U-6iL6XznsEiOpeDt4wwH1m26v1TsO8
+###  2018-5-15__19:04:s : Get request for Patients Details
+###  2018-5-15__19:04:s : patients_list.js: Patints Details Found
+###  2018-5-15__19:04:s : patients_list.js: Patients Detials Sending 
+###  2018-5-15__19:04:s : Get request for Patients Details
+###  2018-5-15__19:04:s : patients_details.js: Patints Details Found
+###  2018-5-15__19:04:s : patients_details.js: Patients Detials Sending 
+###  2018-5-15__19:04:s : Get request for Patients checkup Details
+###  2018-5-15__19:04:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-15__19:04:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-15__19:04:s : Get request for Patients checkup Details
+###  2018-5-15__19:04:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:04:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:05:s : Program Start
+###  2018-5-15__19:05:s : Get request for Patients checkup Details
+###  2018-5-15__19:05:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:05:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:06:s : Get request for Patients checkup Details
+###  2018-5-15__19:06:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:06:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:07:s : Get request for Patients checkup Details
+###  2018-5-15__19:07:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:07:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:09:s : Program Start
+###  2018-5-15__19:10:s : Get request for Patients checkup Details
+###  2018-5-15__19:10:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:10:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:10:s : Program Start
+###  2018-5-15__19:11:s : Program Start
+###  2018-5-15__19:15:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:15:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:15:s : Get request for Patients checkup Details
+###  2018-5-15__19:16:s : Get request for Patients checkup Details
+###  2018-5-15__19:16:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:16:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:18:s : Get request for Patients checkup Details
+###  2018-5-15__19:18:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:18:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:18:s : Get request for Patients checkup Details
+###  2018-5-15__19:18:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:18:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:19:s : Get request for Patients checkup Details
+###  2018-5-15__19:19:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:19:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:19:s : Get request for Patients checkup Details
+###  2018-5-15__19:19:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:19:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:20:s : Get request for Patients checkup Details
+###  2018-5-15__19:20:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:20:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:20:s : Get request for Patients checkup Details
+###  2018-5-15__19:20:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:20:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:21:s : Get request for Patients checkup Details
+###  2018-5-15__19:21:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:21:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:22:s : Get request for Patients checkup Details
+###  2018-5-15__19:22:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:22:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-15__19:23:s : Program Start
+###  2018-5-15__19:26:s : Login Failed
+###  2018-5-15__19:26:s : Failed Error : TypeError: Cannot read property 'reg_id' of undefined
+###  2018-5-15__19:27:s : reg_id Request : 305WM3161247P12014FX
+###  2018-5-15__19:27:s : login in Successful
+###  2018-5-15__19:27:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJmZ2hmZ2giLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImEzIiwicGFzc3dvcmQiOiJhMyIsInNpZ251cF92YWxpZGl0eSI6IjdUR0gyIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMjM6MDk6cyIsImlzX2FkbWluIjoidHJ1ZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1MjYzOTA4NDAsImV4cCI6MTUyNjM5MDkwMH0.vtHBng1uqS-TnOQQvRivW5XTKdi6TiDk-2RcKsfl414
+###  2018-5-15__19:27:s : Get request for Patients Details
+###  2018-5-15__19:27:s : patients_list.js: Patints Details Found
+###  2018-5-15__19:27:s : patients_list.js: Patients Detials Sending 
+###  2018-5-15__19:27:s : Get request for Patients Details
+###  2018-5-15__19:27:s : patients_details.js: Patints Details Found
+###  2018-5-15__19:27:s : patients_details.js: Patients Detials Sending 
+###  2018-5-15__19:27:s : Get request for Patients checkup Details
+###  2018-5-15__19:27:s : patients_checkup_details.js: Patints Details Found
+###  2018-5-15__19:27:s : patients_checkup_details.js: Patients Detials Sending 
+###  2018-5-15__19:27:s : Get request for Patients checkup Details
+###  2018-5-15__19:27:s : patients_checkup_info.js: Patints Details Found
+###  2018-5-15__19:27:s : patients_checkup_info.js: Patients Detials Sending 
+###  2018-5-19__19:26:s : Program Start
