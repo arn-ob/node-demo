@@ -1315,3 +1315,252 @@
 ###  2018-5-15__19:27:s : patients_checkup_info.js: Patints Details Found
 ###  2018-5-15__19:27:s : patients_checkup_info.js: Patients Detials Sending 
 ###  2018-5-19__19:26:s : Program Start
+###  2018-6-9__11:39:s : Program Start
+###  2018-6-9__11:41:s : Program Start
+###  2018-6-9__11:42:s : Program Start
+###  2018-6-9__11:42:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__11:42:s : doctor-signup.js: Error : Error: connect ETIMEDOUT
+###  2018-6-9__11:42:s : doctor-signup.js: Signup Error : Error: connect ETIMEDOUT
+###  2018-6-9__11:43:s : Program Start
+###  2018-6-9__11:44:s : Program Start
+###  2018-6-9__11:44:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__11:45:s : doctor-signup.js: Error : Error: connect ETIMEDOUT
+###  2018-6-9__11:45:s : doctor-signup.js: Signup Error : Error: connect ETIMEDOUT
+###  2018-6-9__11:46:s : Program Start
+###  2018-6-9__11:46:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__11:49:s : Program Start
+###  2018-6-9__11:50:s : Program Start
+###  2018-6-9__11:51:s : Program Start
+###  2018-6-9__11:55:s : Program Start
+###  2018-6-9__11:56:s : Program Start
+###  2018-6-9__12:15:s : Program Start
+###  2018-6-9__12:16:s : Program Start
+###  2018-6-9__12:17:s : Program Start
+###  2018-6-9__12:19:s : Program Start
+###  2018-6-9__12:21:s : Program Start
+###  2018-6-9__12:21:s : Program Start
+###  2018-6-9__12:21:s : Program Start
+###  2018-6-9__12:21:s : Program Start
+###  2018-6-9__12:21:s : Program Start
+###  2018-6-9__12:21:s : Program Start
+###  2018-6-9__12:22:s : Program Start
+###  2018-6-9__12:22:s : Program Start
+###  2018-6-9__12:22:s : Program Start
+###  2018-6-9__12:23:s : Program Start
+###  2018-6-9__12:23:s : Program Start
+###  2018-6-9__12:23:s : Error: getaddrinfo ENOTFOUND localhost:84 localhost:84:3306
+###  2018-6-9__12:23:s : Failed Error : Error: getaddrinfo ENOTFOUND localhost:84 localhost:84:3306
+###  2018-6-9__12:23:s : Login Failed
+###  2018-6-9__12:24:s : Error: Cannot enqueue Query after fatal error.
+###  2018-6-9__12:24:s : Login Failed
+###  2018-6-9__12:24:s : Failed Error : Error: Cannot enqueue Query after fatal error.
+###  2018-6-9__12:24:s : Error: Cannot enqueue Query after fatal error.
+###  2018-6-9__12:24:s : Failed Error : Error: Cannot enqueue Query after fatal error.
+###  2018-6-9__12:24:s : Login Failed
+###  2018-6-9__12:24:s : Program Start
+###  2018-6-9__12:24:s : reg_id Request : BP3LTL5E6259BCHEUVOB
+###  2018-6-9__12:24:s : login in Successful
+###  2018-6-9__12:24:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJCUDNMVEw1RTYyNTlCQ0hFVVZPQiIsImZpcnN0X25hbWUiOiJhc2QiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6ImEyIiwicGFzc3dvcmQiOiJhMiIsInNpZ251cF92YWxpZGl0eSI6IjNaV0tYIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC0xLTIyIiwiY3JlYXRlZF90aW1lIjoiMDowNjpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6InRydWUiLCJpc19wYXRpZW50cyI6ImZhbHNlIn0sImlhdCI6MTUyODUyNTQ5OCwiZXhwIjoxNTI4NTI1NTU4fQ.lOIQ8Qmg9gqeYpx2wEmOQUOqL7im_2WppXpvysabC08
+###  2018-6-9__12:27:s : Program Start
+###  2018-6-9__12:27:s : Program Start
+###  2018-6-9__12:28:s : Program Start
+###  2018-6-9__12:28:s : Program Start
+###  2018-6-9__12:28:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:28:s : doctor-signup.js: Signup successful
+###  2018-6-9__12:28:s : email-verification.js: Email Sending
+###  2018-6-9__12:28:s : New Token Created
+###  2018-6-9__12:28:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1lQHN0dXBpZGFybm9iLmNvbSIsInJlZ19pZCI6IjAzVzM0NDhYSjQxM0VLWkYwWTVTIiwic3VjZXNzIjp0cnVlLCJzaWdudXBfaWQiOiJVVlZVWiIsImlhdCI6MTUyODUyNTcxMCwiZXhwIjoxNTI4NTI1NzcwfQ.DG2w-GwGWWCmtdkBJM7LLe886Mr4D9JZq4-CI7UhWz4
+###  2018-6-9__12:28:s : email-verification.js: Error : Error: Invalid login: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbvl
+534-5.7.14 oOpUpe0EG2BeR1Pc4xDlJn9NRb7M_F0yTuhNqo6A8yky8kSKBmfTM9pgyvTYTQzGbI3JEt
+534-5.7.14 bvJwE_OmIcNI6i3wlbU9F7z0ChalZy1dDN5Z1Xdrr7l-5-Y9ihzY_SNDqVE4-whfh0qLdl
+534-5.7.14 gfMGoWxPlGmgGnv6Em2OZYB7cCx2jdbBeyY1NdKcGXyTC0T3gs3VCuZkSHvnte6DaqaBkh
+534-5.7.14 n7hMz_xBLUpE4ao251EyDx6WjYqcM> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 u19-v6sm73861821pgv.25 - gsmtp
+###  2018-6-9__12:34:s : Program Start
+###  2018-6-9__12:34:s : Program Start
+###  2018-6-9__12:34:s : Program Start
+###  2018-6-9__12:34:s : Program Start
+###  2018-6-9__12:34:s : Program Start
+###  2018-6-9__12:34:s : Program Start
+###  2018-6-9__12:34:s : login in Successful
+###  2018-6-9__12:34:s : reg_id Request : 03W3448XJ413EKZF0Y5S
+###  2018-6-9__12:34:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIwM1czNDQ4WEo0MTNFS1pGMFk1UyIsImZpcnN0X25hbWUiOiIiLCJsYXN0X25hbWUiOiIiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6Im1lQHN0dXBpZGFybm9iLmNvbSIsInBhc3N3b3JkIjoiMTIzNDUiLCJzaWdudXBfdmFsaWRpdHkiOiJVVlZVWiIsImNyZWF0ZWRfZGF0ZSI6IjIwMTgtNi05IiwiY3JlYXRlZF90aW1lIjoiMTI6Mjg6cyIsImlzX2FkbWluIjoiZmFsc2UiLCJpc19kb2N0b3IiOiJ0cnVlIiwiaXNfbnVyc2UiOiJmYWxzZSIsImlzX3BhdGllbnRzIjoiZmFsc2UifSwiaWF0IjoxNTI4NTI2MDk0LCJleHAiOjE1Mjg1MjYxNTR9.kxVi6KjA3v8_SBW7nQrNa3fbaA7gqT0IwyLJOkWY6Vo
+###  2018-6-9__12:37:s : Program Start
+###  2018-6-9__12:37:s : Program Start
+###  2018-6-9__12:37:s : Program Start
+###  2018-6-9__12:37:s : Program Start
+###  2018-6-9__12:38:s : nurse-signup.js: New nurse Signup request
+###  2018-6-9__12:38:s : nurse-signup.js: Signup successful
+###  2018-6-9__12:38:s : nurse-signup.js: Signup Error : ReferenceError: email_send_status is not defined
+###  2018-6-9__12:39:s : Program Start
+###  2018-6-9__12:39:s : Program Start
+###  2018-6-9__12:39:s : Program Start
+###  2018-6-9__12:39:s : Program Start
+###  2018-6-9__12:40:s : reg_id Request : 03W3448XJ413EKZF0Y5S
+###  2018-6-9__12:40:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIwM1czNDQ4WEo0MTNFS1pGMFk1UyIsImZpcnN0X25hbWUiOiIiLCJsYXN0X25hbWUiOiIiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6Im1lQHN0dXBpZGFybm9iLmNvbSIsInBhc3N3b3JkIjoiMTIzNDUiLCJzaWdudXBfdmFsaWRpdHkiOiJVVlZVWiIsImNyZWF0ZWRfZGF0ZSI6IjIwMTgtNi05IiwiY3JlYXRlZF90aW1lIjoiMTI6Mjg6cyIsImlzX2FkbWluIjoiZmFsc2UiLCJpc19kb2N0b3IiOiJ0cnVlIiwiaXNfbnVyc2UiOiJmYWxzZSIsImlzX3BhdGllbnRzIjoiZmFsc2UifSwiaWF0IjoxNTI4NTI2NDI5LCJleHAiOjE1Mjg1MjY0ODl9.2NmS_LqFVABOXtdQdnpt1qjgx718kB0zDSP-TSvIbYs
+###  2018-6-9__12:40:s : login in Successful
+###  2018-6-9__12:41:s : Program Start
+###  2018-6-9__12:41:s : Program Start
+###  2018-6-9__12:41:s : Program Start
+###  2018-6-9__12:41:s : Program Start
+###  2018-6-9__12:41:s : Program Start
+###  2018-6-9__12:41:s : Program Start
+###  2018-6-9__12:41:s : Program Start
+###  2018-6-9__12:41:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:41:s : doctor-signup.js: Signup successful
+###  2018-6-9__12:41:s : doctor-signup.js: Signup Error : ReferenceError: email_send_status is not defined
+###  2018-6-9__12:42:s : Program Start
+###  2018-6-9__12:43:s : Program Start
+###  2018-6-9__12:43:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:43:s : doctor-signup.js: Signup successful
+###  2018-6-9__12:43:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Inl5IiwicmVnX2lkIjoiWEwxSEE0UlU4MDM3Mzc5NjdESk4iLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6IkI5MlEyIiwiZW1haWxTZW5kIjoic2VuZCIsImlhdCI6MTUyODUyNjYyMywiZXhwIjoxNTI4NTI2NjgzfQ.RYKVUEgDo7BYWZMAGBiuL92sKmRmBU-S066B3NRlrjU
+###  2018-6-9__12:43:s : New Token Created
+###  2018-6-9__12:45:s : Program Start
+###  2018-6-9__12:45:s : Program Start
+###  2018-6-9__12:45:s : Program Start
+###  2018-6-9__12:45:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:46:s : Program Start
+###  2018-6-9__12:46:s : Program Start
+###  2018-6-9__12:46:s : Program Start
+###  2018-6-9__12:46:s : Program Start
+###  2018-6-9__12:46:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:46:s : New Token Created
+###  2018-6-9__12:46:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Inl5IiwicmVnX2lkIjoiTE44WDA3OTlSMjRVODgwSTU1QlkiLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6Ijk2QjZRIiwiZW1haWxTZW5kIjoic2VuZCIsImlhdCI6MTUyODUyNjc4NywiZXhwIjoxNTI4NTI2ODQ3fQ.lSCE-Meb1XyswqiwcHv6t67fmdOjf3cQspoDCVgP9BE
+###  2018-6-9__12:46:s : doctor-signup.js: Signup successful
+###  2018-6-9__12:46:s : Program Start
+###  2018-6-9__12:46:s : Program Start
+###  2018-6-9__12:47:s : Program Start
+###  2018-6-9__12:47:s : Program Start
+###  2018-6-9__12:47:s : Program Start
+###  2018-6-9__12:47:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:47:s : doctor-signup.js: Signup successful
+###  2018-6-9__12:47:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Inl5IiwicmVnX2lkIjoiNVg0UTk2Mlg3MTQ2Njg1Slg5Vk0iLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6IjQzSjI3IiwiZW1haWxTZW5kIjoic2VuZCIsImlhdCI6MTUyODUyNjg2NCwiZXhwIjoxNTI4NTI2OTI0fQ.txCwIdZiWB-oLb0TEbUZ5-ntkwpBTCM-2mprtLyFOOE
+###  2018-6-9__12:47:s : New Token Created
+###  2018-6-9__12:47:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:47:s : doctor-signup.js: Signup successful
+###  2018-6-9__12:47:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Inl5IiwicmVnX2lkIjoiMjQ0U1E0MUVNOTJaQVE3SzNIRjciLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6IkRGRVNOIiwiZW1haWxTZW5kIjoic2VuZCIsImlhdCI6MTUyODUyNjg3MywiZXhwIjoxNTI4NTI2OTMzfQ.tt7i222Oxngfkn9ckIqbaPcXw1jnSwiq4N1lrIHoqI4
+###  2018-6-9__12:47:s : New Token Created
+###  2018-6-9__12:48:s : Program Start
+###  2018-6-9__12:48:s : Program Start
+###  2018-6-9__12:49:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:49:s : doctor-signup.js: Signup successful
+###  2018-6-9__12:49:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImhoIiwicmVnX2lkIjoiSzVVQTZVVjk1WTk2V0VRRFpYUjgiLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6IkpKM1AwIiwiZW1haWxTZW5kIjoic2VuZCIsImlhdCI6MTUyODUyNjk0NiwiZXhwIjoxNTI4NTI3MDA2fQ.C0UoFtzGNAY4oIxnEUxXb0MHdga_ESmjZCbmRvH5ACc
+###  2018-6-9__12:49:s : New Token Created
+###  2018-6-9__12:49:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:49:s : doctor-signup.js: Signup successful
+###  2018-6-9__12:49:s : New Token Created
+###  2018-6-9__12:49:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImhoIiwicmVnX2lkIjoiRzJOSERJR0UyQ1NHVlU4NlZOSVkiLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6IkY5VDYxIiwiZW1haWxTZW5kIjoic2VuZCIsImlhdCI6MTUyODUyNjk1MywiZXhwIjoxNTI4NTI3MDEzfQ.Joa3NCljNpfBLR9ziPnkFjVEIorZrIQ4OfYfzgOtPo8
+###  2018-6-9__12:49:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:49:s : doctor-signup.js: Signup successful
+###  2018-6-9__12:49:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Inl5IiwicmVnX2lkIjoiMzM3N0I2WDdLVVVNQTZSWjlQWjAiLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6IlE4RDRPIiwiZW1haWxTZW5kIjoic2VuZCIsImlhdCI6MTUyODUyNjk4MiwiZXhwIjoxNTI4NTI3MDQyfQ.6gBkEPuUjU-kyIPzNrVvPCMzVkrPjs3Ubh16XHWyOss
+###  2018-6-9__12:49:s : New Token Created
+###  2018-6-9__12:49:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:49:s : doctor-signup.js: Signup successful
+###  2018-6-9__12:49:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV1IiwicmVnX2lkIjoiVzZVUkk5NkM2NTE5Mlo0MDdUNTkiLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6IkxBRENGIiwiZW1haWxTZW5kIjoic2VuZCIsImlhdCI6MTUyODUyNjk5NSwiZXhwIjoxNTI4NTI3MDU1fQ.9MZqcTUzkM7eLmV-UHIs2kkfiwNhpHKnWXI9SUoNQuo
+###  2018-6-9__12:49:s : New Token Created
+###  2018-6-9__12:50:s : Program Start
+###  2018-6-9__12:50:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__12:50:s : doctor-signup.js: Signup successful
+###  2018-6-9__12:50:s : New Token Created
+###  2018-6-9__12:50:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZmIiwicmVnX2lkIjoiSUg4VlQ3TUM4Tk9HOTVTQTNGMTEiLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6Ilc3MlBHIiwiZW1haWxTZW5kIjoic2VuZCIsImlhdCI6MTUyODUyNzA0MywiZXhwIjoxNTI4NTI3MTAzfQ.gyRvUWqA--FJdb9gYWWWzj1PJ-lJdK7eTjqcRgcynuU
+###  2018-6-9__13:21:s : Program Start
+###  2018-6-9__13:21:s : Program Start
+###  2018-6-9__13:21:s : Program Start
+###  2018-6-9__13:22:s : Program Start
+###  2018-6-9__13:23:s : Login Failed
+###  2018-6-9__13:23:s : Failed Error : TypeError: Cannot read property 'reg_id' of undefined
+###  2018-6-9__13:23:s : reg_id Request : 305WM3161247P12014FX
+###  2018-6-9__13:23:s : login in Successful
+###  2018-6-9__13:23:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiIzMDVXTTMxNjEyNDdQMTIwMTRGWCIsImZpcnN0X25hbWUiOiJ1bmRlZmluZWQiLCJsYXN0X25hbWUiOiJ1bmRlZmluZWQiLCJ1c2VyX25hbWUiOiJ1bmRlZmluZWQiLCJlbWFpbCI6ImhlYWx0aGFwcCIsInBhc3N3b3JkIjoiYWRtaW4iLCJzaWdudXBfdmFsaWRpdHkiOiI3VEdIMiIsImNyZWF0ZWRfZGF0ZSI6IjIwMTgtMS0yMiIsImNyZWF0ZWRfdGltZSI6IjIzOjA5OnMiLCJpc19hZG1pbiI6InRydWUiLCJpc19kb2N0b3IiOiJ0cnVlIiwiaXNfbnVyc2UiOiJmYWxzZSIsImlzX3BhdGllbnRzIjoiZmFsc2UifSwiaWF0IjoxNTI4NTI4OTk1LCJleHAiOjE1Mjg1MjkwNTV9.WLJLSx2WgyY9RqaVLCTqvKvU985vkRNJY0O1OeS1k78
+###  2018-6-9__13:28:s : Program Start
+###  2018-6-9__13:28:s : reg_id Request : B75GK67451KXZN4BVVH9
+###  2018-6-9__13:28:s : login in Successful
+###  2018-6-9__13:28:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJCNzVHSzY3NDUxS1haTjRCVlZIOSIsImZpcnN0X25hbWUiOiIiLCJsYXN0X25hbWUiOiIiLCJ1c2VyX25hbWUiOiIiLCJlbWFpbCI6InJyIiwicGFzc3dvcmQiOiJyciIsInNpZ251cF92YWxpZGl0eSI6IjkyTVZDIiwiY3JlYXRlZF9kYXRlIjoiMjAxOC02LTkiLCJjcmVhdGVkX3RpbWUiOiIxMjozODpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6ImZhbHNlIiwiaXNfbnVyc2UiOiJ0cnVlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1Mjg1MjkzMTEsImV4cCI6MTUyODUyOTM3MX0.BWi9x4cb-so40peSlOuwZZZjkyGqnJM_E0malWM6ztc
+###  2018-6-9__13:41:s : Program Start
+###  2018-6-9__13:41:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__13:41:s : doctor-signup.js: Signup successful
+###  2018-6-9__13:41:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImxsIiwicmVnX2lkIjoiT0NRVU4zRzdYU0MzMFc3STZKSVQiLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6IkMxNUxXIiwiZW1haWxTZW5kIjoic2VuZCIsImlhdCI6MTUyODUzMDA5MiwiZXhwIjoxNTI4NTMwMTUyfQ.otF5Veof5nD2cGZyxYjUoJ-rv5tlK_zSfiGGJnLUi88
+###  2018-6-9__13:41:s : New Token Created
+###  2018-6-9__15:24:s : Program Start
+###  2018-6-9__15:26:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__15:26:s : doctor-signup.js: Signup successful
+###  2018-6-9__15:26:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZmIiwicmVnX2lkIjoiNDFTMFI5OEhLQTFDS0VINVY0NzgiLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6IksyRDA3IiwiZW1haWxTZW5kIjoic2VuZCIsImlhdCI6MTUyODUzNjQxMCwiZXhwIjoxNTI4NTM2NDcwfQ.j_vrYiC8gSeQHGD0dpdmCv1U15_xt0ME_ZWQ9dKDI0c
+###  2018-6-9__15:26:s : New Token Created
+###  2018-6-9__15:27:s : doctor-finalize.js: New doctor Signup request
+###  2018-6-9__15:27:s : doctor-finalize.js: Signup successful
+###  2018-6-9__15:27:s : doctor-finalize.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQxUzBSOThIS0ExQ0tFSDVWNDc4IiwiaWF0IjoxNTI4NTM2NDY4LCJleHAiOjE1Mjg1MzY1Mjh9.LxkQgxHJb9eYzlbX9TS6mxjGo-b8BeRY8GBwOENKfko
+###  2018-6-9__15:27:s : New Token Created
+###  2018-6-9__15:27:s : Get request for Patients Details
+###  2018-6-9__15:27:s : patients_list.js: Patints Details Found
+###  2018-6-9__15:27:s : patients_list.js: Patients Detials Sending 
+###  2018-6-9__15:29:s : Program Start
+###  2018-6-9__15:29:s : Program Start
+###  2018-6-9__15:30:s : Program Start
+###  2018-6-9__15:30:s : Program Start
+###  2018-6-9__15:30:s : Program Start
+###  2018-6-9__15:30:s : Program Start
+###  2018-6-9__15:30:s : Program Start
+###  2018-6-9__15:30:s : Program Start
+###  2018-6-9__15:30:s : Program Start
+###  2018-6-9__15:30:s : Program Start
+###  2018-6-9__15:31:s : Get request for Doctor Information
+###  2018-6-9__15:31:s : doctor_info.js: Patients Detials Sending 
+###  2018-6-9__15:31:s : doctor_info.js: Patints Details Found
+###  2018-6-9__15:31:s : login in Successful
+###  2018-6-9__15:31:s : reg_id Request : OCQUN3G7XSC30W7I6JIT
+###  2018-6-9__15:31:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJPQ1FVTjNHN1hTQzMwVzdJNkpJVCIsImZpcnN0X25hbWUiOiIiLCJsYXN0X25hbWUiOiIiLCJtaWRkbGVfbmFtZSI6IiIsInVzZXJfbmFtZSI6IiIsImVtYWlsIjoibGwiLCJwYXNzd29yZCI6ImxsIiwic2lnbnVwX3ZhbGlkaXR5IjoiQzE1TFciLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTYtOSIsImNyZWF0ZWRfdGltZSI6IjEzOjQxOnMiLCJpc19hZG1pbiI6ImZhbHNlIiwiaXNfZG9jdG9yIjoidHJ1ZSIsImlzX251cnNlIjoiZmFsc2UiLCJpc19wYXRpZW50cyI6ImZhbHNlIn0sImlhdCI6MTUyODUzNjY3NiwiZXhwIjoxNTI4NTM2NzM2fQ.vvnaFhmTe852gl8SQBGJiGqYL1W3yqyf_WsXnevgkME
+###  2018-6-9__15:31:s : Get request for Patients Details
+###  2018-6-9__15:31:s : patients_list.js: Patints Details Found
+###  2018-6-9__15:31:s : patients_list.js: Patients Detials Sending 
+###  2018-6-9__15:31:s : Login Failed
+###  2018-6-9__15:31:s : Failed Error : TypeError: Cannot read property 'reg_id' of undefined
+###  2018-6-9__15:32:s : reg_id Request : OCQUN3G7XSC30W7I6JIT
+###  2018-6-9__15:32:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJPQ1FVTjNHN1hTQzMwVzdJNkpJVCIsImZpcnN0X25hbWUiOiIiLCJsYXN0X25hbWUiOiIiLCJtaWRkbGVfbmFtZSI6IiIsInVzZXJfbmFtZSI6IiIsImVtYWlsIjoibGwiLCJwYXNzd29yZCI6ImxsIiwic2lnbnVwX3ZhbGlkaXR5IjoiQzE1TFciLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTYtOSIsImNyZWF0ZWRfdGltZSI6IjEzOjQxOnMiLCJpc19hZG1pbiI6ImZhbHNlIiwiaXNfZG9jdG9yIjoidHJ1ZSIsImlzX251cnNlIjoiZmFsc2UiLCJpc19wYXRpZW50cyI6ImZhbHNlIn0sImlhdCI6MTUyODUzNjcyNCwiZXhwIjoxNTI4NTM2Nzg0fQ.onXboUUCU4VfOjLazZmu7CpbDWWC_zVsG1F6J1Bz99s
+###  2018-6-9__15:32:s : login in Successful
+###  2018-6-9__15:32:s : reg_id Request : OCQUN3G7XSC30W7I6JIT
+###  2018-6-9__15:32:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJPQ1FVTjNHN1hTQzMwVzdJNkpJVCIsImZpcnN0X25hbWUiOiIiLCJsYXN0X25hbWUiOiIiLCJtaWRkbGVfbmFtZSI6IiIsInVzZXJfbmFtZSI6IiIsImVtYWlsIjoibGwiLCJwYXNzd29yZCI6ImxsIiwic2lnbnVwX3ZhbGlkaXR5IjoiQzE1TFciLCJjcmVhdGVkX2RhdGUiOiIyMDE4LTYtOSIsImNyZWF0ZWRfdGltZSI6IjEzOjQxOnMiLCJpc19hZG1pbiI6ImZhbHNlIiwiaXNfZG9jdG9yIjoidHJ1ZSIsImlzX251cnNlIjoiZmFsc2UiLCJpc19wYXRpZW50cyI6ImZhbHNlIn0sImlhdCI6MTUyODUzNjczNywiZXhwIjoxNTI4NTM2Nzk3fQ.uzRvW3VlEkmmTj_MddGkTBpBzfaXB38XK_d4vwIuYP0
+###  2018-6-9__15:32:s : login in Successful
+###  2018-6-9__15:32:s : Get request for Patients Details
+###  2018-6-9__15:32:s : patients_list.js: Patints Details Found
+###  2018-6-9__15:32:s : patients_list.js: Patients Detials Sending 
+###  2018-6-9__15:32:s : Get request for Doctor Information
+###  2018-6-9__15:32:s : doctor_info.js: Patints Details Found
+###  2018-6-9__15:32:s : doctor_info.js: Patients Detials Sending 
+###  2018-6-9__15:50:s : Program Start
+###  2018-6-9__15:50:s : doctor-signup.js: New doctor Signup request
+###  2018-6-9__15:50:s : New Token Created
+###  2018-6-9__15:50:s : doctor-signup.js: Signup successful
+###  2018-6-9__15:50:s : doctor-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtrayIsInJlZ19pZCI6IlNPREozMzBTMzBYOFZTRzQ2SUc0Iiwic3VjZXNzIjp0cnVlLCJzaWdudXBfaWQiOiI0TFM4NiIsImVtYWlsU2VuZCI6InNlbmQiLCJpYXQiOjE1Mjg1Mzc4NTUsImV4cCI6MTUyODUzNzkxNX0.SVcNC60CWf5KAiFtQ5dpnVfdo036Ux4yJ2LiyuwFyqI
+###  2018-6-9__15:51:s : doctor-finalize.js: New doctor Signup request
+###  2018-6-9__15:51:s : doctor-finalize.js: Signup successful
+###  2018-6-9__15:51:s : doctor-finalize.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IlNPREozMzBTMzBYOFZTRzQ2SUc0IiwiaWF0IjoxNTI4NTM3ODg0LCJleHAiOjE1Mjg1Mzc5NDR9.HW8zPpgNyGhJs52lpb5KnZZkmmeY6xm9iNpO1_RvXsw
+###  2018-6-9__15:51:s : New Token Created
+###  2018-6-9__15:54:s : login in Successful
+###  2018-6-9__15:54:s : reg_id Request : SODJ330S30X8VSG46IG4
+###  2018-6-9__15:54:s : Sended Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJyZWdfaWQiOiJTT0RKMzMwUzMwWDhWU0c0NklHNCIsImZpcnN0X25hbWUiOiJhc2Rhc2QiLCJsYXN0X25hbWUiOiJhYXNkIiwibWlkZGxlX25hbWUiOiJhc2RzIiwidXNlcl9uYW1lIjoiIiwiZW1haWwiOiJra2siLCJwYXNzd29yZCI6ImtrayIsInNpZ251cF92YWxpZGl0eSI6IjRMUzg2IiwiY3JlYXRlZF9kYXRlIjoiMjAxOC02LTkiLCJjcmVhdGVkX3RpbWUiOiIxNTo1MDpzIiwiaXNfYWRtaW4iOiJmYWxzZSIsImlzX2RvY3RvciI6InRydWUiLCJpc19udXJzZSI6ImZhbHNlIiwiaXNfcGF0aWVudHMiOiJmYWxzZSJ9LCJpYXQiOjE1Mjg1MzgwNDQsImV4cCI6MTUyODUzODEwNH0.J1W0k51CJcTGSgENfsbR1JK_AvyQXkN41E7R9HWeV5U
+###  2018-6-9__15:54:s : Get request for Patients Details
+###  2018-6-9__15:54:s : patients_list.js: Patints Details Found
+###  2018-6-9__15:54:s : patients_list.js: Patients Detials Sending 
+###  2018-6-9__15:54:s : Get request for Doctor Information
+###  2018-6-9__15:54:s : doctor_info.js: Patints Details Found
+###  2018-6-9__15:54:s : doctor_info.js: Patients Detials Sending 
+###  2018-6-9__16:22:s : Program Start
+###  2018-6-9__16:23:s : patients-signup.js: New patients Signup request
+###  2018-6-9__16:23:s : patients-signup.js: Signup successful
+###  2018-6-9__16:23:s : New Token Created
+###  2018-6-9__16:23:s : patients-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1tIiwicmVnX2lkIjoiNkhJOFBCSDcyWEVZUTM0NTE5TksiLCJzdWNlc3MiOnRydWUsInNpZ251cF9pZCI6IkJRQUpNIiwiaWF0IjoxNTI4NTM5NzkyLCJleHAiOjE1Mjg1Mzk4NTJ9.Toyu8RPGIqON1axmNltSzAx77C3mziLuRHenRwL8k_0
+###  2018-6-9__16:23:s : email-verification.js: Email Sending
+###  2018-6-9__16:23:s : email-verification.js: Error : Error: Invalid login: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbvg
+534-5.7.14 a_N-HyWiZct0MqsQU0A5SznQ93yjfpLPbUNhSYGHI4cjPG0kxQGZMZ7VvsbekAvXTuy0AG
+534-5.7.14 rwrkWzwtPj2zweQqJV2YZaKvkpO3drDQhikvONj2Z8PHgibkSlzIYllCLqyU-lVCyAcrF8
+534-5.7.14 Dt5yMVTt6i59b8qACFnaaFFv-EQkJ_bqoJoML-ETxtorXke8BGvTgUurnluYmI2MjlEYLC
+534-5.7.14 rkezD4gbrwWz3q5OnL5VpAZC8Kk0s> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 x72-v6sm58903078pff.176 - gsmtp
+###  2018-6-9__16:24:s : patients-finalize.js: New doctor Signup request
+###  2018-6-9__16:24:s : patients-finalize.js: Signup successful
+###  2018-6-9__16:24:s : patients-finalize.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZISThQQkg3MlhFWVEzNDUxOU5LIiwiaWF0IjoxNTI4NTM5ODY2LCJleHAiOjE1Mjg1Mzk5MjZ9.wl3PmnYB1dYJSSC7OouznXxReiBrBkn8S6W8fDiCnsI
+###  2018-6-9__16:24:s : New Token Created

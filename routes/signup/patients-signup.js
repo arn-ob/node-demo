@@ -23,7 +23,7 @@ exports.insert_patient = function (req, res) {
     var sql3 = "INSERT INTO address (reg_id) VALUES ('" + random_id + "')";
 
     var sql = sql1 + ";" + sql2 + ";" + sql3;
-    
+ 
     db.con.query(sql, function (err, result, fields) {
 
         try {
@@ -49,6 +49,7 @@ exports.insert_patient = function (req, res) {
                 res.json({
                     token: token
                 });
+               
             }
         } catch (err) {
             log_data.logs("patients-signup.js: Signup Error : " + err);
@@ -58,6 +59,7 @@ exports.insert_patient = function (req, res) {
             res.json({
                 token: null
             });
+           
         }
     });
 };

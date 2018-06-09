@@ -1,4 +1,4 @@
-const db = require('./db-config'); // For local 
-const db_aws = require('./db-config-For-AWS'); // For AWS
+var db = require('./db-config'); // For local 
+var db_aws = require('./db-config-For-AWS'); // For AWS
 
-exports.con = db_aws.con;
+module.exports.con = db.con; //db_aws.con;

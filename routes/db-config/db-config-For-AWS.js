@@ -1,5 +1,5 @@
 // Get the list from db
-const mysql = require('mysql2');
+var mysql = require('mysql');
 
 // Online (Azure only)
 

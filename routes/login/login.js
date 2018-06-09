@@ -3,14 +3,14 @@ let jwt = require('jsonwebtoken');
 var log_data = require('../../log');
 
 
-exports.in = function (req, res) {
+module.exports.in = function (req, res) {
 
     var input = req.body;
 
     var sql = "SELECT * FROM users,role WHERE users.email ='" + input.email + "' AND users.password ='" + input.password + "' and users.reg_id = role.reg_id";
     
     try {
-       
+        
         db.con.query(sql, function (err, result, fields) {
 
             try {
@@ -31,6 +31,7 @@ exports.in = function (req, res) {
                     res.json({
                         token: token
                     });
+                  
                 }
             } catch (err) {
                 console.log('Login.js: Login Failed');

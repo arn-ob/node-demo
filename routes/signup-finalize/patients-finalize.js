@@ -13,10 +13,11 @@ exports.finalize_Patients = function (req, res) {
     let present_time = new Date().format("H:m:s");
 
     console.log(req.body);
-    var sql1 = "UPDATE users SET first_name='" + input.first_name + "', last_name ='" + input.last_name + "' WHERE reg_id = '" + input.reg_id + "'";
-    var sql2 = "INSERT INTO patients(reg_id, date_of_birth,  created_date, created_time) VALUES ('" + input.reg_id + "','" + BOD + "','" + present_date + "','" + present_time + "')";
+    var sql1 = "UPDATE users SET first_name='" + input.first_name + "', last_name ='" + input.last_name + "', middle_name ='" + input.middle_name + "' WHERE reg_id = '" + input.reg_id + "'";
+    var sql2 = "INSERT INTO patients(reg_id, sex, address, home_phn, email, card_no, past_history, weight, current_med, allergies, date_of_birth,  created_date, created_time)";
+    var sql2_values = "VALUES ('" + input.reg_id + "','" + input.sex + "','" + input.address + "','" + input.home_phn + "','" + input.email + "','" + input.card_no + "','" + input.past_history + "','" + input.weight + "','" + input.current_med + "','" + input.allergies + "','" + BOD + "','" + present_date + "','" + present_time + "')";
 
-    var sql = sql1 + ";" + sql2;
+    var sql = sql1 + ";" + sql2 + " " + sql2_values;
 
     db.con.query(sql, function (err, result, fields) {
 

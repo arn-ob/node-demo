@@ -3,7 +3,7 @@ var mysql = require('mysql');
 
 // Local
 
-exports.con = mysql.createConnection({
+module.exports.con = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: '',
