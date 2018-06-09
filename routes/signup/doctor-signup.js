@@ -41,7 +41,7 @@ exports.insert_Doctor = function (req, res) {
                 // send log data
                 log_data.logs("doctor-signup.js: Signup successful");
                 
-                let email_send_status = "send" // emailSend.sendMail(input.email,signup_validity,'Doctor');
+                let email_send_status = "send"; // emailSend.sendMail(input.email,signup_validity,'Doctor');
                 
                 let token = tokenManage.TokernCreate({
                     email: input.email,

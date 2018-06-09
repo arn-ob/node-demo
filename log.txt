@@ -1,0 +1,11 @@
+###  2018-6-9__17:20:s : Program Start
+###  2018-6-9__17:21:s : nurse-signup.js: New nurse Signup request
+###  2018-6-9__17:21:s : nurse-signup.js: Signup successful
+###  2018-6-9__17:21:s : nurse-signup.js: Signup Error : ReferenceError: email_send_status is not defined
+###  2018-6-9__17:22:s : Program Start
+###  2018-6-9__17:22:s : Program Start
+###  2018-6-9__17:22:s : Program Start
+###  2018-6-9__17:24:s : nurse-signup.js: New nurse Signup request
+###  2018-6-9__17:25:s : nurse-signup.js: Signup successful
+###  2018-6-9__17:25:s : New Token Created
+###  2018-6-9__17:25:s : nurse-signup.js: Signup Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFzZCIsInJlZ19pZCI6IkhJN0ZUMzdZR0o0MFgxRVRJQVMyIiwic3VjZXNzIjp0cnVlLCJzaWdudXBfaWQiOiJONjAzSSIsImVtYWlsU2VuZCI6InNlbmQiLCJpYXQiOjE1Mjg1NDM1MTIsImV4cCI6MTUyODU0MzU3Mn0.u09yg5tydAN2C9vQBLLigH2FjuQEoN1Cau6kicPjk6Y

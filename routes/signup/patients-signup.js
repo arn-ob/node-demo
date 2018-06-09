@@ -34,7 +34,7 @@ exports.insert_patient = function (req, res) {
                 // send log data
                 log_data.logs("patients-signup.js: Signup successful");
 
-                let email_send_status = emailSend.sendMail(input.email,signup_validity,'Patient');
+                let email_send_status = "send"; //emailSend.sendMail(input.email,signup_validity,'Patient');
                 
                 let token = tokenManage.TokernCreate({
                     email: input.email,

@@ -23,7 +23,6 @@ exports.insert_nurse = function (req, res) {
     var sql3 = "INSERT INTO address (reg_id) VALUES ('" + random_id + "')";
 
     var sql = sql1 + ";" + sql2 + ";" + sql3;
-    db.con.connect();
     db.con.query(sql, function (err, result, fields) {
 
         try {
@@ -34,7 +33,7 @@ exports.insert_nurse = function (req, res) {
                 // send log data
                 log_data.logs("nurse-signup.js: Signup successful");
                 
-                // let email_send_status = emailSend.sendMail(input.email, signup_validity, 'Nurse');
+                let email_send_status = "send"; //emailSend.sendMail(input.email, signup_validity, 'Nurse');
 
                 let token = tokenManage.TokernCreate({
                     email: input.email,
@@ -59,8 +58,6 @@ exports.insert_nurse = function (req, res) {
             res.json({
                 token: null
             });
-            
         }
     });
-    db.con.end();
 };
