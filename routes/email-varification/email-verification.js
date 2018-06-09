@@ -24,7 +24,6 @@ exports.sendMail = function (EmailAddress, regID, regType) {
         smtpTransport.sendMail(mailOptions, function (error, response) {
             if (error) {
                 log_data.logs("email-verification.js: Error : " + error);
-                console.log(error);
                 return "error";
             } else {
                 log_data.logs("email-verification.js: Email Send");

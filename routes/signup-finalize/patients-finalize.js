@@ -21,7 +21,6 @@ exports.finalize_Patients = function (req, res) {
 
     db.con.query(sql, function (err, result, fields) {
 
-        
         try {
             if (err) {
 

@@ -49,6 +49,4 @@ exports.finalize_Doctor = function (req, res) {
             });
         }
     });
-
-
 };

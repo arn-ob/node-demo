@@ -34,6 +34,7 @@ module.exports.in = function (req, res) {
                   
                 }
             } catch (err) {
+                
                 console.log('Login.js: Login Failed');
                 log_data.logs("Login Failed");
                 log_data.logs("Failed Error : " + err);
